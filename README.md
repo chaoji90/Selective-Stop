@@ -1,4 +1,4 @@
-# SP-DARTS
+# SS-DARTS
 Source code for SS-DARTS
 
 https://dl.acm.org/doi/abs/10.1145/3459637.3482248
