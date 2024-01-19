@@ -1,5 +1,9 @@
 # SP-DARTS
-Source code for SP-DARTS
+Source code for SS-DARTS
+
+https://dl.acm.org/doi/abs/10.1145/3459637.3482248
+
+https://arxiv.org/abs/2109.13466
 
 ## version: pytorch 1.7.0
 
